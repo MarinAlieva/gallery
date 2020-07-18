@@ -1,4 +1,4 @@
-# test-app
+# gallery
 
 ## Project setup
 ```
